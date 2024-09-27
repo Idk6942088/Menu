@@ -1,0 +1,35 @@
+.container{
+  min-height: 100vh;
+  padding: 0!important;
+  margin: 0!important;
+;
+}
+.sticky{
+  position: sticky;
+  top:0;
+  color: #16b121;
+}
+.categ{
+  cursor: pointer;
+}
+.kep{
+  height: 300px;
+  width: 300px;
+  object-fit: cover;
+  object-position: center;
+}
+.itemek{
+  margin-left: 30px;
+  margin-top: 15px;
+  margin-right: 30px;
+  margin-bottom: 14px;
+}
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+  color: #16b121!important;
+}
+.valami{
+  color: #16b121!important;
+  border-color: #16b121!important;
+}
